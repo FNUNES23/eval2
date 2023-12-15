@@ -2,9 +2,11 @@
 using namespace std;
 
 int main () {
-//variable permettant de completer le nombre de places disponibles int nombreplace = 10;
+//variable permettant de completer le nombre de places disponibles 
+  int nombreplace = 10;
   
-//variable permettant de récupérer le choix de l'utilisateur int choix;
+//variable permettant de récupérer le choix de l'utilisateur 
+  int choix;
 
   cout <<"************ Evaluation 2 ************" << endl << endl;
   
